@@ -6,7 +6,7 @@ main()
 {
 	setlocale(LC_ALL, "RUS");
 	int t;
-	puts("Введите количество секундn\n");
+	puts("Введите количество секунд\n");
 	scanf("%d", &t);
 	puts("");
 	puts("ОТВЕТ:\n");
